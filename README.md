@@ -1,6 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Igor Vinicius</h1>
 
----
 
 ## 👨‍💼 Sobre mim
 
