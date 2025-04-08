@@ -1,11 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Igor Vinicius</h1>
 
-<p align="center">
-   🎓 Tecnólogo em Redes de Computadores (cursando) <br>
-  💻 Técnico em Informática | ⚡ Técnico em Eletrotécnica <br>
-  📶 Profissional com experiência em Telecomunicações
-</p>
-
 ---
 
 ## 👨‍💼 Sobre mim
