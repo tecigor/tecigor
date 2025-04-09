@@ -7,6 +7,7 @@ Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes 
 
 **Experiência em Eletrotécnica**:
 - Homologações e análises de projetos **fotovoltaicos**
+- Rateio para Geração Distribuída
 - Instalações elétricas residenciais e comerciais
 - Projetos elétricos com emissão de ART
 - Instalação de tomadas, interruptores e luminárias
