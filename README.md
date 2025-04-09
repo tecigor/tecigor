@@ -3,7 +3,7 @@
 
 ## 👨‍💼 Sobre mim
 
-Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes de Computadores pela UNINTER. Atuei por quase 8 anos como Técnico em Telecomunicações na empresa AtelTelecom, com ampla experiência em manutenções e instalações de redes em Fibra Óptica, UTP e rádio 5.8 GHz. Possuo também formação técnica em Informática pelo PRONATEC. Sou Técnico em Eletrotécnica pelo CEAPE, atualmente atuo com homologações de projetos fotovoltaicos. Possuo também formação técnica em Informática pelo PRONATEC, onde fui estagiário como auxiliar de professor e sigo prestando de forma autônoma serviços de manutenção de microcomputadores.
+Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes de Computadores pela UNINTER. Atuei por quase 8 anos como Técnico em Telecomunicações na empresa AtelTelecom, com ampla experiência em manutenções e instalações de redes em Fibra Óptica, UTP e rádio 5.8 GHz. Sou Técnico em Eletrotécnica pelo CEAPE, atualmente atuo com homologações de projetos fotovoltaicos. Possuo também formação técnica em Informática pelo PRONATEC, onde fui estagiário como auxiliar de professor e sigo prestando de forma autônoma serviços de manutenção de microcomputadores.
 
 **Experiência em Eletrotécnica**:
 - Homologações e análises de projetos **fotovoltaicos**
