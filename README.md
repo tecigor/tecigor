@@ -9,7 +9,7 @@ Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes 
 - Homologações e análises de projetos **fotovoltaicos**
 - Rateio para Geração Distribuída
 - Instalações elétricas residenciais e comerciais
-- Projetos elétricos com emissão de ART
+- Projetos elétricos com emissão de TRT
 - Instalação de tomadas, interruptores e luminárias
 - Instalação de dispositivos DR e DPS
 - Automação residencial básica
