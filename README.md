@@ -15,8 +15,6 @@ Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes 
 - ⚠️ Instalação de dispositivos DR e DPS  
 - 🏡💡 Automação residencial básica  
 
----
-
 ## 📡 Experiência em Telecomunicações
 
 - 📞 Atendimento ao cliente  
@@ -24,8 +22,6 @@ Tenho 26 anos e moro em Petrolândia – PE. Estou cursando Tecnólogo em Redes 
 - 🎯 Alinhamento de antenas e enlaces ponto a ponto (PTP)  
 - 🔍 Testes de conectividade e medições com OTDR e Power Meter  
 - 🎥 Implantação de sistemas de **CFTV IP**  
-
----
 
 ## 💻 Experiência em Informática
 
